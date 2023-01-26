@@ -2,16 +2,16 @@
     list-style:none;
     margin:0;
     padding:0;
-    top: 1000px;
+    top: 50px;
    }   
 
    #menu ul li {
-    background-color:#0543a8;
+    background-color:#ffa844fd;
    }
    
    #menu ul a {
     display:block;
-    color:#fff;
+    color:rgb(2, 2, 2);
     text-decoration:none;
     font-weight:400;
     font-size:15px;
@@ -31,7 +31,7 @@
    
    
    #menu ul li:hover {
-    background:#5b78a7;
+    background:#d4ad2a9f;
    }
 
 
@@ -39,21 +39,21 @@
     display:none;
     position:absolute;
     top:100%;
-    left:0;
-    background:#eee;
+    left:0px;
+    background:rgb(255, 255, 255);
     padding:0;
    }
    
    
    #menu ul ul li {
     float:none;
-    width:150px
+    width:160px
    }
    
    
    #menu ul ul a {
     line-height:120%;
-    padding:10px 15px;
+    padding:10px 10px;
    }
    
    
