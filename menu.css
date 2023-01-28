@@ -6,7 +6,8 @@
    }   
 
    #menu ul li {
-    background-color:#fcc280fd;
+    background-color:#f5a63e ;
+    border: 3px #f0951d solid ;
    }
    
    #menu ul a {
@@ -31,7 +32,7 @@
    
    
    #menu ul li:hover {
-    background:#d4ad2a9f;
+    background:#f1c475;
    }
 
 
@@ -59,4 +60,4 @@
    
    #menu ul li:hover > ul {
     display:block;
-   }
+   } 
